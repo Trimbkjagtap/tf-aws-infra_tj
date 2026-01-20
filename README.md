@@ -262,15 +262,4 @@ Set Up AWS CLI
         terraform apply -var-file=dev.tfvars
 
 
-For Assignment 5
 
-I added iam_role.tf, rds.tf, rds-sg.tf file for s3 bucket and s
-
-
-
-for this assignment   
-i added autoscaling.tf, cloudwatch.tf, load_balance.tf, output.tf, route53,
-
-
-import command
-aws acm import-certificate --certificate fileb://www_demo_trimbkjagtap_me.crt --certificate-chain fileb://www_demo_trimbkjagtap_me.ca-bundle --private-key fileb://private.key
